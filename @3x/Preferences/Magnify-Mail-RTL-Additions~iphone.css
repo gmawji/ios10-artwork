@@ -1,0 +1,35 @@
+BODY {
+	direction: rtl !important;
+}
+
+/* Small */
+
+#mail-small 				{ background: #FFF url(Magnify-Mail-568-RTL~iphone.png) top left no-repeat !important; }
+#mail-small .FromName,
+#mail-small .ToString,
+#mail-small .BodyText,
+#mail-small .Subject,
+#mail-small .Date 			{ right: 38px; text-align: right !important; }
+#mail-small .NavBack 		{ right: 64px; text-align: right !important; }
+
+
+/* Medium */
+
+#mail-medium 				{ background: #FFF url(Magnify-Mail-667-RTL~iphone.png) top left no-repeat !important; }
+#mail-medium .FromName,
+#mail-medium .ToString,
+#mail-medium .BodyText,
+#mail-medium .Subject,
+#mail-medium .Date 			{ right: 32px; text-align: right !important; }
+#mail-medium .NavBack 		{ right: 54px; text-align: right !important; }
+
+
+/* Large */
+
+#mail-large 				{ background: #FFF url(Magnify-Mail-736-RTL~iphone.jpg) top left no-repeat !important; }
+#mail-large .FromName,
+#mail-large .ToString,
+#mail-large .BodyText,
+#mail-large .Subject,
+#mail-large .Date 			{ right: 63px; text-align: right !important; }
+#mail-large .NavBack 		{ right: 95px; text-align: right !important; }

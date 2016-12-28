@@ -1,0 +1,112 @@
+html { 
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+}
+
+BODY {
+	margin: 0px 0px;
+	font: 39px -apple-system-font, sans-serif;
+	color: #000;
+	background: #FFF;
+}
+
+#messages-large {
+	width: 1242px;
+	height: 2208px;
+	background: #FFF url(Magnify-Messages-736~iphone.jpg) top left no-repeat;
+	position: absolute;
+	-webkit-transition: -webkit-transform .35s;
+	-webkit-transition-delay: .15s;
+}
+
+.StatusBarTime,
+.NavTitle,
+.Timestamp,
+.GrayBubble1,
+.BlueBubble1,
+.BlueBubble2,
+.GrayBubble2,
+.BlueBubble3 {
+	position:absolute;
+	text-align: center;
+	font-size: 51px;
+}
+
+.StatusBarTime {
+	top: 8px;
+	left: 420px;
+	width: 400px;
+	text-align: center;
+	font: -apple-system-font, Times, sans-serif;
+	font-size: 37px;
+	font-weight: 600;
+}
+
+.Timestamp {
+	font-size: 33px;
+	width: 500px;
+	left:386px;
+	top: 316px;
+	color: #8e8e93;
+}
+
+.iMessage,
+.Today {
+	font: -apple-system-font, Times, sans-serif;
+	font-weight: 600;
+}
+
+.NavTitle {
+    top: 188px;
+    left: 425px;
+    width: 400px;
+    text-align: center;
+	font-size: 37px;
+}
+
+.GrayBubble1,
+.GrayBubble2,
+.BlueBubble1,
+.BlueBubble2,
+.BlueBubble3 {
+    line-height: 61px;
+	font-size: 48px;
+
+}
+
+
+.GrayBubble1 {
+	top: 443px;
+	left: 92px;
+	color: black;
+}
+.GrayBubble2 {
+	top: 1336px;
+	left: 92px;
+	color: black;
+}
+
+.BlueBubble1,
+.BlueBubble2,
+.BlueBubble3 {
+	text-align: left;
+	right:89px;
+	color: white;
+}
+
+.BlueBubble1 {
+	width: 548px;
+	top: 572px;
+}
+
+.BlueBubble2 {
+	width: 427px;
+	top: 740px;
+	white-space: nowrap;
+}
+
+.BlueBubble3 {
+	width: 696px;
+	top: 1485px;
+}

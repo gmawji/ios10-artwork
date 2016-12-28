@@ -1,0 +1,100 @@
+html { 
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+}
+
+BODY {
+	margin: 0px 0px;
+	font: 39px -apple-system-font, sans-serif;
+	color: #fff;
+	background: #FFF;
+}
+
+#springboard-large {
+	width: 1242px;
+	height: 2208px;
+	background: #FFF url(Magnify-SpringBoard-736~iphone.jpg) top left no-repeat;
+	position: absolute;
+	-webkit-transition: -webkit-transform .35s;
+	-webkit-transition-delay: .15s;
+}
+
+.StatusBarTime,
+.DayOfWeek,
+.Messages,
+.Calendar,
+.Photos,
+.Camera,
+.Weather,
+.Clock,
+.Videos,
+.Maps,
+.Wallet,
+.Notes,
+.Reminders,
+.Stocks,
+.iTunesStore,
+.AppStore,
+.iBooks,
+.News,
+.Home,
+.Health,
+.Settings,
+.Phone,
+.Mail,
+.Safari,
+.Music {
+	position:absolute;
+	text-align: center;
+	width: 320px;
+}
+
+.StatusBarTime {
+	top: 5px;
+	left: 420px;
+	width: 400px;
+	text-align: center;
+	font: -apple-system-font, Times, sans-serif;
+	font-size: 36px;
+	font-weight: 600;
+}
+
+/* Column 1 */
+
+.Messages		{ left: 35px; top: 297px; }
+.Weather		{ left: 35px; top: 597px; }
+.Wallet			{ left: 35px; top: 897px; }
+.Videos			{ left: 35px; top: 1197px; }
+.Home			{ left: 35px; top: 1497px; }
+.Phone			{ left: 35px; top: 2154px; }
+
+
+/* Column 2 */
+
+.DayOfWeek 		{ left: 319px; top: 136px; color: #F7281C; font-size: 24px; }
+.Calendar		{ left: 319px; top: 297px; }
+.Clock			{ left: 319px; top: 597px; }
+.Reminders		{ left: 319px; top: 897px; }
+.iBooks			{ left: 319px; top: 1197px; }
+.Health			{ left: 319px; top: 1497px; }
+.Safari			{ left: 319px; top: 2154px; }
+
+
+/* Column 3 */
+
+.Photos			{ left: 602px; top: 297px; }
+.Maps			{ left: 602px; top: 597px; }
+.Notes			{ left: 602px; top: 897px; }
+.iTunesStore	{ left: 602px; top: 1197px; }
+.Settings		{ left: 602px; top: 1497px; }
+.Mail			{ left: 602px; top: 2154px; }
+
+
+/* Column 4 */
+
+.Camera			{ left: 887px; top: 297px; }
+.News			{ left: 887px; top: 597px; }
+.Stocks			{ left: 887px; top: 897px; }
+.AppStore		{ left: 887px; top: 1197px; }
+.Music			{ left: 887px; top: 2154px; }
