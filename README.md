@@ -17,7 +17,7 @@ This is ongoing currently. I will mention **here** when it is complete. Only **@
 3. Added Images not in Assets.car
 2. Stock Applications
 
-##Motivation
+## Motivation
 I create iOS themes so this is useful to me and many of my peers. I would like to expand this later to include artwork for popular apps, but the initial goal is to show themers what they can now theme to try and get as many **complete** themes out there as possible.
 
 ##Cardump Commands
