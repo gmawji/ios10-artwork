@@ -12,7 +12,7 @@ If you want to use the below cardump commands you need to have **Anemone** insta
 ##Current Support
 This is ongoing currently. I will mention **here** when it is complete. Only **@3x**  Images for now. **Frameworks** and SpringBoard.app are **extracted**. Whats left todo:
 
-1. Private Frameworks
+1. Private Frameworks **--in progress**
 2. @2x Images
 3. Added Images not in Assets.car
 2. Stock Applications
