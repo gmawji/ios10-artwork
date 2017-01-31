@@ -70,3 +70,34 @@ I create iOS themes so this is useful to me and many of my peers. I would like t
 ```cardump --dumpall /var/mobile/Documents/com.apple.VoiceMemos.framework /System/Library/PrivateFrameworks/VoiceMemos.framework/Assets.car```
 
 ```cardump --dumpall /var/mobile/Documents/com.apple.Stocks /System/Library/PrivateFrameworks/Stocks.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.UserNotificationsUIKit /System/Library/PrivateFrameworks/UserNotificationsUIKit.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.UpNextWidget /System/Library/PrivateFrameworks/UpNextWidget.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.iCloudQuotaUI /System/Library/PrivateFrameworks/iCloudQuotaUI.framework/Assets.car```
+
+//empty
+```cardump --dumpall /var/mobile/Documents/com.apple.MobileMusicPlayer.MusicCarDisplayUI /System/Library/PrivateFrameworks/MusicCarDisplayUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.weather-framework /System/Library/PrivateFrameworks/Weather.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.TVMLKit /System/Library/PrivateFrameworks/TVMLKit.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.ios.StoreKitUI /System/Library/PrivateFrameworks/StoreKitUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.VideosExtras /System/Library/PrivateFrameworks/VideosExtras.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.SpringBoardUIFramework /System/Library/PrivateFrameworks/SpringBoardUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.HealthUI /System/Library/PrivateFrameworks/HealthUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.TelephonyUI /System/Library/PrivateFrameworks/TelephonyUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.SpotlightUI /System/Library/PrivateFrameworks/SpotlightUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.SiriUI /System/Library/PrivateFrameworks/SiriUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.SearchUI /System/Library/PrivateFrameworks/SearchUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.PhotosUICore /System/Library/PrivateFrameworks/PhotosUICore.framework/Assets.car```
