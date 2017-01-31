@@ -101,3 +101,37 @@ I create iOS themes so this is useful to me and many of my peers. I would like t
 ```cardump --dumpall /var/mobile/Documents/com.apple.SearchUI /System/Library/PrivateFrameworks/SearchUI.framework/Assets.car```
 
 ```cardump --dumpall /var/mobile/Documents/com.apple.PhotosUICore /System/Library/PrivateFrameworks/PhotosUICore.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.PhotoLibrary /System/Library/PrivateFrameworks/PhotoLibrary.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.MediaPlayerUI /System/Library/PrivateFrameworks/MediaPlayerUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.CameraUI /System/Library/PrivateFrameworks/CameraUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.preferences-ui-framework /System/Library/PrivateFrameworks/PreferencesUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.BatteryCenter /System/Library/PrivateFrameworks/BatteryCenter.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.MediaSocial /System/Library/PrivateFrameworks/MediaSocial.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.MapsSupport /System/Library/PrivateFrameworks/MapsSupport.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.Memories /System/Library/PrivateFrameworks/Memories.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.FitnessUI /System/Library/PrivateFrameworks/FitnessUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.RemindersUI /System/Library/PrivateFrameworks/RemindersUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.FlightUtilities /System/Library/PrivateFrameworks/FlightUtilities.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.PlacesKit /System/Library/PrivateFrameworks/PlacesKit.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.Pegasus /System/Library/PrivateFrameworks/Pegasus.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.CoreSuggestionsUI /System/Library/PrivateFrameworks/CoreSuggestionsUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.icloud.FMFUI /System/Library/PrivateFrameworks/FMFUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.helpkit /System/Library/PrivateFrameworks/HelpKit.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.VoiceTriggerUI /System/Library/PrivateFrameworks/VoiceTriggerUI.framework/Assets.car```
