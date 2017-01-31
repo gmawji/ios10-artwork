@@ -1,15 +1,15 @@
-#iOS 10(.2) Artwork
+# iOS 10(.2) Artwork
 
-##Synopsis
+## Synopsis
 iOS 10.2 Artwork Extract using Anemone Car support. 
 Extracting *Assets.car*
 
-##Installation
+## Installation
 There *isn't* really anything for you to install. Download a Zip or Clone the repo to use the artwork files to build themes.
 
 If you want to use the below cardump commands you need to have **Anemone** installed and mTeriminal on the iOS device. Alternatively you can use SSH access and Terminal on a Mac/PC.
 
-##Current Support
+## Current Support
 This is ongoing currently. I will mention **here** when it is complete. Only **@3x**  Images for now. **Frameworks** and SpringBoard.app are **extracted**. Whats left todo:
 
 1. ~~Private Frameworks~~ **complete**
@@ -20,7 +20,7 @@ This is ongoing currently. I will mention **here** when it is complete. Only **@
 ## Motivation
 I create iOS themes so this is useful to me and many of my peers. I would like to expand this later to include artwork for popular apps, but the initial goal is to show themers what they can now theme to try and get as many **complete** themes out there as possible.
 
-##Cardump Commands
+## Cardump Commands
 #### CoreServices
 ```cardump --dumpall /var/mobile/Documents/com.apple.springboard /System/Library/CoreServices/SpringBoard.app/Assets.car```
 
