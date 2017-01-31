@@ -12,7 +12,7 @@ If you want to use the below cardump commands you need to have **Anemone** insta
 ##Current Support
 This is ongoing currently. I will mention **here** when it is complete. Only **@3x**  Images for now. **Frameworks** and SpringBoard.app are **extracted**. Whats left todo:
 
-1. Private Frameworks **--in progress**
+1. ~~Private Frameworks~~ **complete**
 2. @2x Images
 3. Added Images not in Assets.car
 2. Stock Applications
@@ -135,3 +135,21 @@ I create iOS themes so this is useful to me and many of my peers. I would like t
 ```cardump --dumpall /var/mobile/Documents/com.apple.helpkit /System/Library/PrivateFrameworks/HelpKit.framework/Assets.car```
 
 ```cardump --dumpall /var/mobile/Documents/com.apple.VoiceTriggerUI /System/Library/PrivateFrameworks/VoiceTriggerUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.icloud.FMCoreUI /System/Library/PrivateFrameworks/FMCoreUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.CloudDocsUI /System/Library/PrivateFrameworks/CloudDocsUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.AnnotationKit /System/Library/PrivateFrameworks/AnnotationKit.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.HomeUI /System/Library/PrivateFrameworks/HomeUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.FuseUI /System/Library/PrivateFrameworks/FuseUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.GameCenterUI /System/Library/PrivateFrameworks/GameCenterUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.AuthKitUI /System/Library/PrivateFrameworks/AuthKitUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.CoreRoutine /System/Library/PrivateFrameworks/CoreRoutine.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.Contacts.ContactsUICore /System/Library/PrivateFrameworks/ContactsUICore.framework/Assets.car```
