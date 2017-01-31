@@ -21,8 +21,10 @@ This is ongoing currently. I will mention **here** when it is complete. Only **@
 I create iOS themes so this is useful to me and many of my peers. I would like to expand this later to include artwork for popular apps, but the initial goal is to show themers what they can now theme to try and get as many **complete** themes out there as possible.
 
 ##Cardump Commands
+#### CoreServices
 ```cardump --dumpall /var/mobile/Documents/com.apple.springboard /System/Library/CoreServices/SpringBoard.app/Assets.car```
 
+#### Frameworks
 ```cardump --dumpall /var/mobile/Documents/com.apple.AVKit /System/Library/Frameworks/AVKit.framework/Assets.car```
 
 ```cardump --dumpall /var/mobile/Documents/com.apple.AddressBookUI /System/Library/Frameworks/AddressBookUI.framework/Assets.car```
@@ -54,3 +56,17 @@ I create iOS themes so this is useful to me and many of my peers. I would like t
 ```cardump --dumpall /var/mobile/Documents/com.apple.VideoSubscriberAccount.VideoSubscriberAccountFramework /System/Library/Frameworks/VideoSubscriberAccount.framework/Assets.car```
 
 ```cardump --dumpall /var/mobile/Documents/com.apple.sociald.Social /System/Library/Frameworks/Social.framework/Assets.car```
+
+#### PrivateFrameworks
+
+```cardump --dumpall /var/mobile/Documents/com.apple.ControlCenter /System/Library/PrivateFrameworks/ControlCenterUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.ControlCenterUIKit /System/Library/PrivateFrameworks/ControlCenterUIKit.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.chatkit /System/Library/PrivateFrameworks/ChatKit.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.CameraUI /System/Library/PrivateFrameworks/CameraUI.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.VoiceMemos.framework /System/Library/PrivateFrameworks/VoiceMemos.framework/Assets.car```
+
+```cardump --dumpall /var/mobile/Documents/com.apple.Stocks /System/Library/PrivateFrameworks/Stocks.framework/Assets.car```
