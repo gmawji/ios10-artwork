@@ -13,7 +13,7 @@ If you want to use the below cardump commands you need to have **Anemone** insta
 This is ongoing currently. I will mention **here** when it is complete. Only **@3x**  Images for now. **Frameworks** and SpringBoard.app are **extracted**. Whats left todo:
 
 1. ~~Private Frameworks~~ **complete**
-2. @2x Images
+2. ~~@2x Images~~ **complete**
 3. Added Images not in Assets.car
 2. Stock Applications
 
